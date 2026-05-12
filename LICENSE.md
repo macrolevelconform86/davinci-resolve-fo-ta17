@@ -1,4 +1,4 @@
-# 
+# Enhance DaVinci Resolve for macOS with professional DaVinci Resolve for macOS LUT | version-history + audio-cleanup, the #1 lut. Includes version-history and audio-cleanup for a
 
 
 
